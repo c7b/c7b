@@ -3,7 +3,7 @@
 
 Inspiration from:  https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
-<h2>Hey 👋, I'm <a href="https://linkedin.com/in/cristobal-a/">Cristobal</a></h2>
+<h2>Hey 👋, I'm <a href="https://linkedin.com/in/cristobal-a/" target="_blank">Cristobal</a></h2>
 <p>I'm currently a software engineer, marketing, content creator...</p>
 <p>💧 Don't forget to drink water 💧</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
