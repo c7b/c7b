@@ -9,11 +9,11 @@ Inspiration from:  https://github.com/abhisheknaiidu/awesome-github-profile-read
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 Big fan of the E-commerce industry and creating value for people</li>
+<li>🔭 Big fan of the E-commerce industry and creating value for people.</li>
 <li>🧐 Learning about <strong>Angular</strong> and <strong>Web-Apps</strong>.</li>
 <li>📝 I enjoy reading about economics and psychology even though I do not work on them.</li>
 <li>🗣️ I know Spanish, English, and German.</li>
-<li>📫 Get in touch wiht me, Email: <a href = "mailto: what@xn--p-dha.com">what@üp.com</a></li>
+<li>📫 Get in touch with me, Email: <a href = "mailto: what@xn--p-dha.com">what@üp.com</a></li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
