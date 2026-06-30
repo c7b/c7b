@@ -60,15 +60,13 @@ I ship full-stack. I use frontier LLMs and agentic coding tools as part of the t
 
 ### 📦 Open Source
 
-Small tools I'm building in the open. More coming as I ship them.
+Small tools I build in the open. More coming as I ship them.
 
-| Project | What it does | Stack | Status |
-| --- | --- | --- | --- |
-| _Coming soon_ | — | — | 🚧 |
+- 📚 **[CS153 Frontier Systems Transcripts](https://github.com/c7b/CS153-Frontier-Systems-Transcripts)** — Clean, searchable transcripts of all 13 Stanford CS153 lectures (Nadella, Altman, Huang, Horowitz + 9 more founders). Drop them into your AI agent and let it pull out what matters for what you're building.
 
 <!--
-  Add new rows above as you ship. Format:
-  | [project-name](https://github.com/your-handle/project-name) | One-line description | Python · Next.js | ✅ live |
+  Add new projects above as you ship. Format:
+  - 🔧 **[project-name](https://github.com/c7b/project-name)** — One-line description of what it does.
 -->
 
 ---
