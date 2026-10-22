@@ -62,8 +62,9 @@ I ship full-stack. I use frontier LLMs and agentic coding tools as part of the t
 
 Small tools I build in the open. More coming as I ship them.
 
-- 📚 **[CS153 Frontier Systems Transcripts](https://github.com/c7b/CS153-Frontier-Systems-Transcripts)** — Clean, searchable transcripts of all 13 Stanford CS153 lectures (Nadella, Altman, Huang, Horowitz + 9 more founders). Drop them into your AI agent and let it pull out what matters for what you're building.
-
+- 🔒 **[hidebox](https://github.com/c7b/hidebox)** · [hidebox.app](https://hidebox.app) — Your private cloud storage. Store, send, and sell files privately. Built on Tari™. No KYC. No email.
+- 📚 **[CS153 Frontier Systems Transcripts](https://github.com/c7b/CS153-Frontier-Systems-Transcripts)** — Clean, timestamped transcripts of Stanford CS153 "Frontier Systems" (Nadella, Altman, Huang, Horowitz and more). Drop them into your AI agent and let it pull out what matters for what you're building.
+- 🌳 **[raiz-nl](https://github.com/c7b/raiz-nl)** — Donate a tree where it does the most good for Monterrey's water or air. Built at Grok Monterrey Build Day.
 <!--
   Add new projects above as you ship. Format:
   - 🔧 **[project-name](https://github.com/c7b/project-name)** — One-line description of what it does.
@@ -72,8 +73,8 @@ Small tools I build in the open. More coming as I ship them.
 ---
 
 ### ⚡️ Quick Facts
-* 🔭 **Working on:** Production commerce systems, checkout, automation, and operational tooling.
-* 🌱 **Learning:** Headless commerce testing, AI agents, and where agent-assisted workflows are heading.
+* 🔭 **Working on:** Production commerce systems by day; [hidebox](https://hidebox.app), a privacy-first drive, on the side.
+* 🌱 **Learning:** Agent loops that run commerce operations end to end, e-commerce systems and networks at scale, and the path from senior engineer to Director of E-commerce and CTO.
 * 🧠 **Mindset:** Build it, break it, fix it, make sure it scales and sells.
 
 ---
