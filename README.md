@@ -65,6 +65,7 @@ Small tools I build in the open. More coming as I ship them.
 - 🔒 **[hidebox](https://github.com/c7b/hidebox)** · [hidebox.app](https://hidebox.app) — Your private cloud storage. Store, send, and sell files privately. Built on Tari™. No KYC. No email.
 - 📚 **[CS153 Frontier Systems Transcripts](https://github.com/c7b/CS153-Frontier-Systems-Transcripts)** — Clean, timestamped transcripts of Stanford CS153 "Frontier Systems" (Nadella, Altman, Huang, Horowitz and more). Drop them into your AI agent and let it pull out what matters for what you're building.
 - 🌳 **[raiz-nl](https://github.com/c7b/raiz-nl)** — Donate a tree where it does the most good for Monterrey's water or air. Built at Grok Monterrey Build Day.
+- 🎬 **[The Fourth Step](https://github.com/c7b/the-fourth-step)** · [watch it](https://youtu.be/5GJJaFRKPdQ) — What is Tari? An explainer video made entirely in code.
 <!--
   Add new projects above as you ship. Format:
   - 🔧 **[project-name](https://github.com/c7b/project-name)** — One-line description of what it does.
